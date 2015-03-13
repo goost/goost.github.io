@@ -1,0 +1,37 @@
+---
+author: FitzChivalrik
+comments: true
+date: 2013-11-03 01:30:49+00:00
+layout: post
+slug: blog-sinn
+title: Blog-Sin(n)
+wordpress_id: 1
+categories:
+- Allgemein
+tags:
+- Info
+- Leben
+- Sinn
+---
+
+Puh, da ist er nun, der erste Beitrag in meinem Blog. Da es schon spät ist (die Uhr hier zeigt mir 03:24 an) werde ich mich nicht lang aufhalten. Der Blog ist erst mal als ein Referenz- und Nachschlagewerk gedacht und erst in zweiter Linie dazu, um viele Leser zu ergattern. Obwohl das natürlich auch ein Ziel ist. ;)
+
+Der Gedanke, einen eigenen Blog zu schreiben spuckte schon lange ![](http://www.pgunited.de/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif)in meinem Kopf herum (so wohl in den Köpfen von so vielen Leuten), aber ohne ein passendes Thema oder wenigstens eine Grundstruktur zu haben, erschien es mir sinnlos einen zu eröffnen. Ich meine, für mich selbst kann ich auch offline schreiben. Wieso schreib ich also nun diesen Beitrag? Es gibt mehrere Faktoren, die mich letztendlich dazu gebracht haben, zu beginnen.
+
+<!-- more -->Zum einen wäre da mein lang gehegter Wunsch nach einem Lerntagebuch. Zurzeit ist es so, dass ich wahllos im Internet surfe, mir Artikel zu interessanten Themen durchlesen, die ich beim Stöbern finde, ab und zu für mein Studium lerne, Aufgaben bearbeite und das alles in so einem Durcheinander, dass ich mir am Ende des Tages nicht mehr sicher bin, was ich eigentlich den ganzen Tag gemacht habe. Ich werde diesen Blog also dazu benutzen, Ordnung in dieses Chaos zu bringen und mich selbstkritisch damit beschäftigen, ob es denn so viel Sinn macht, wie ich zurzeit an die Dinge rangehe. Ich befürchte nämlich nicht. Auch das könnte man natürlich offline machen, aber mir gefällt der Gedanke eines Blogs mehr. Als Lerntagebuch versteh ich übrigens allerlei, stellt euch also darauf ein, hier alles Mögliche zu finden, was ich so als "gelernt" empfinde, seien es neue Rezepte, die ich ausprobierte habe oder neue Technologien, über die ich las oder auch nur eine neue Strategie in einem Game.
+
+
+#### Software...oder auch nicht
+
+
+Zum anderen habe ich vor, endlich und wirklich mal, eigene Software zu schreiben und zu veröffentlichen. Ja, ich bin ein Informatikstudent der noch nie ein vollständiges Stück Software geschrieben hat. Aber hey, ich bin erst im dritten Semester und mir fehlen die Ideen. Und ich hab mal eine Android App geschrieben. Die konnte vorgespeicherte Videos abspielen, diese waren aber mit einem Passwort geschützt. Zählt das? Ich zähl das mal als 0.5 mit, das motiviert mehr. Ich hab also 0.5 Applications geschrieben. Luft nach oben ist da definitiv noch und dieser Blog soll auch als Ort dienen, wo ich über den Fortschritt, den ich Richtung eigener Software tue, berichte. Wer weiß, vielleicht liest jemand in einigen Jahren das hier und denkt sich: "Ach, so hat das damals mit [insert my application name here] angefangen!" Womit ich bei einem weiteren Punkt wäre: Ich frage mich, wie das hier in einigen Jahren aufgefasst wird. Werd ich mich schämen über das, was ich geschrieben habe? Oder werde ich es als ersten Schritt zu mehr Produktivität betrachten? Ich weiß es nicht (hoffe aber natürlich letzteres!) und bin voll freudiger Erwartung. Ich finde Nervenkitzel toll, no risk no fun, richtig? Abprobos, wo wir gerade über zukünftiges sprechen, ich möchte kurz den Service von [https://ohlife.com/timecapsule](https://ohlife.com/timecapsule) vorstellen. OhLife generell ist eine Art OnlineTagebuch. Man registriert sich und bekommt jeden Tag eine eMail mit der Frage, wie der Tag war und der Bitte, diese doch zu beantworten. Nach und nach füllt sich nun das Tagebuch mit euren Antworten. Für die TimeCapsule braucht ihr euch nicht zu registrieren. Ihr klickt einfach auf den Link, gebt einen Text und eure eMail und schreibt eine Nachricht an euch selbst in der Zukunft. Ihr habt richtig gelesen, ihr stellt ein, wann ihr die eMail erhalten wollt und schreibt euch selbst eine Nachricht. Vor einem Jahr hab ich mir wohl eine Nachricht geschrieben gehabt, denn vor drei Tagen habe ich meine TimeCapsule erhalten und war überrascht, wie sehr ich mich darüber gefreut habe. Ich hatte überhaupt nicht mehr auf den Schirm, jemals so etwas gemacht zu haben und was mein altes Ich damals von mir wollte, dass ich heute tue...es war sehr erhellend, so daran erinnert zu werden, dass man sich ständig ändert und das auch nur ein Jahr vieles verändern und auf den Kopf stellen kann. Diese Nachricht war sogar der ausschlaggebende Grund, dass ich mich nun wirklich entschloss, diesen Blog zu eröffnen. Ich kann euch also nur empfehlen, schreibt eurem zukünftigen Ich eine Nachricht, es wird überrascht sein und sich sehr freuen!
+
+
+#### Schreibwahn
+
+
+Jetzt bin ich etwas vom Thema abgekommen. Was hatte ich bereits erwähnt? Der Blog soll als Lerntagebuch dienen, als Ideensammlung und Reflexion, als Sammelsurium von allem möglichen Interessanten, was ich so finde. Kurzum, einen Einblick für mich und vielleicht für andere Interessierte in mein Leben geben, um zu verstehen, wieso etwas mal so sein wird wie es ist, wie es seinen Anfang nahm. Ob PG United jemals dieses Ziel erfüllen können wird? Wir werden sehen. Ah, beinahe hätte ich noch einen dritten Grund vergessen! Es ist zur Zeit November! Und was heißt das? Genau, der NaNoWriMo findet statt (für die, die nicht wissen, was das ist -> [http://nanowrimo.org/](http://nanowrimo.org/) ) und ich sollte eigentlich an meiner Geschichte arbeiten. Aber ich bin (wer nicht?) ein Meister der Prokrastination und so habe ich bis jetzt nur 2065 Wörter. Dieses Jahr habe ich aber nur ein Ziel von 25000, das Studium lässt mir momentan nicht wirklich viel Zeit, zumal ich gerade im November auch einen Blockkurs habe. Insofern bin ich gut in der Zeit noch, aber trotzdem konnte ich mich nicht mehr dazu aufraffen, weiter zu schreiben. Und wenn ich schon prokastriniere, so kann ich dies  wenigstens schreibend tun, nicht wahr?
+
+Und so führte alles dazu, dass hier nun mein erster Blogeintrag steht. Ich hoffe es bleibt nicht der letzte! Ich bin definitiv gerade sehr motiviert, dies hier weiter zu führen und einfach mal zu sehen wohin das führt. In etwa einem Jahr habe ich vor ein Auslandssemester in Japan einzulegen, spätestens da ließen sich bestimmt viele Themen zum Bloggen finden, aber bis dahin möchte ich PG United erstmal mit Leben füllen. Fragt ihr euch eigentlich, wieso PG United? Es kann für so vieles stehen.  Seht es als "P und G vereint" an. Setzt ein was ihr wollt. PG United steht für das, wofür es zurzeit gebraucht wird. Die Bedeutung ist wandelbar und es ist immer anders, aber im Kern doch gleich und vereint. Es symbolisiert genau das, was dieser Blog sein soll. Ein wandelbarer Blog über die verschiedensten Themen, mal mit Schwerpunkt nach hier, mal nach da, aber alles ist immer zusammen im Kern vereint. PG United. Und nun gut Nacht, es ist zehn vor halb vier und ich bin müde.
+
+Meint ihr eigentlich, ich kann die Blogposts zu meinem Nano dazu zählen? Immerhin habe ich jetzt grad fleißig geschrieben...
