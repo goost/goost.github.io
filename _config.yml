@@ -18,16 +18,16 @@ url:              http://goost.github.io
 
 # Owner/author information
 owner:
-  name:           Hossain Mohammad Faysal
+  name:           Gleb Ostrowski
   avatar:         hmfaysal-sylhet-83.jpg
-  email:          hmfaysal@alum.mit.edu
+  email:          askme@pgunited.de
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    MIT&#39;12 EECS Alum. UPenn&#39;15 ESE PhD Candidate. Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Philadelphia, Pennsylvania. His interests are anything that&#8217;s related to math, from math itself to programming languages to music to physics to engineering to philosophy.
+  description:    Applied Computer Science B.Sc. Student from Hanover, Germany (No, not the one with Snyder&#39;s :( ). German National Merit Foundation scholarship holder. Game Developer to be. Blogger to be. Professional to be. Knowledge-Lover. Still much to be, but going there. And then going further.
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
+  twitter:        
+  facebook:       pgunited.de
+  github:         goost      
+  instagram:      
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
@@ -52,7 +52,7 @@ links:
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Dhaka
+timezone:    Europe/Berlin
 future:      true
 highlighter: rouge
 markdown:    kramdown
