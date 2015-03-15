@@ -1,7 +1,7 @@
 title:            PG United
 description:      "Sciences and more"
 locale:           en_US
-logo:             logo.png
+logo:             logo.jpg
 disqus_shortname: goost
 share:            true
 readtime:		  true
@@ -14,7 +14,7 @@ author_bg:		  newyork.jpg
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:              http://goost.github.io
+url:              http://tmp.pgunited.de
 
 # Owner/author information
 owner:
@@ -22,18 +22,18 @@ owner:
   avatar:         hmfaysal-sylhet-83.jpg
   email:          askme@pgunited.de
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Applied Computer Science B.Sc. Student from Hanover, Germany (No, not the one with Snyder&#39;s :( ). German National Merit Foundation scholarship holder. Game Developer to be. Blogger to be. Professional to be. Knowledge-Lover. Still much to be, but going there. And then going further.
-  # Social networking links used in footer. Update and remove as you like.
+  description:    Applied Computer Science B.Sc. Student from Hanover, Germany. German National Merit Foundation scholarship holder. Game Developer to be. Blogger to be. Professional to be. Knowledge-Lover. Still much to be, but going there. And then going further.
   twitter:        
-  facebook:       pgunited.de
+  facebook:       pgunited
   github:         goost      
   instagram:      
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+#google_analytics:   
+#google_verify:
+piwik_url:  www.pgunited.de/piwik/      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
@@ -50,17 +50,21 @@ links:
     url: /categories
   - title: About
     url: /about
-
+  - title: Über Mich
+    url: /ueber-mich
+  
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Berlin
 future:      true
-highlighter: rouge
+#highlighter: pygments
+highlighter:  rouge
 markdown:    kramdown
 paginate:    5
 paginate_path: "page:num"
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
+#permalink:    /:year/:month/:day/:title
 
 kramdown:
   auto_ids: true
@@ -77,8 +81,8 @@ kramdown:
     coderay_css: class
 
 prose:
-  siteurl: 'http://goost.github.io/'
-  relativeLinks: 'http://goost.github.io/links.jsonp'
+  siteurl: 'tmp.pgunited.de'
+  relativeLinks: 'tmp.pgunited.de'
   media: 'images/post'
   metadata:
     _posts:
