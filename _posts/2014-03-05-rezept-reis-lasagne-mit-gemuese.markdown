@@ -1,14 +1,14 @@
 ---
-author: FitzChivalrik
+author: goost
 comments: true
 date: 2014-03-05 21:59:00+00:00
 layout: post
 slug: rezept-reis-lasagne-mit-gemuese
 title: 'Rezept: Reis-Lasagne mit Gemüse'
+permalink: /2014/03/05/rezept-reis-lasagne-mit-gemuese/
 wordpress_id: 287
 categories:
-- Allgemein
-- Kochtipps
+- Cooking
 tags:
 - Essen
 - Kochen
@@ -22,39 +22,36 @@ Ich wollte vor ein paar Tagen eine Lasagne machen, aber keine gewöhnliche, sond
 
 
 
-Zutaten (für 4 Personen):
+##### Zutaten (für 4 Personen):
 
 
-
-1 Paprika, mittelgroß
-250g Zucchini
-250g Broccoli
-200g Champignons
-2 Zehen Knoblauch
-1 Zwiebel, rot
-200g Tofu
-1 Beutel Reis (125g)
-Lasagneblätter
-Streukäse
-Chilisoße
-Szechuan-Pfeffer
-Cajun-Gewürz
-Sojasoße
-Olivenöl
-Pfeffer und Salz
-…weitere/andere Gewürze nach belieben
-
+- 1 Paprika, mittelgroß
+- 250g Zucchini
+- 250g Broccoli
+- 200g Champignons
+- 2 Zehen Knoblauch
+- 1 Zwiebel, rot
+- 200g Tofu
+- 1 Beutel Reis (125g)
+- Lasagneblätter
+- Streukäse
+- Chilisoße
+- Szechuan-Pfeffer
+- Cajun-Gewürz
+- Sojasoße
+- Olivenöl
+- Pfeffer und Salz
+- …weitere/andere Gewürze nach belieben
 
 
 Für die Soße
 
 
-
-250ml Sahne (oder Milch)
-250ml Gemüsebrühe
-50g Butter
-50g Mehl
-Chilifäden
+- 250ml Sahne (oder Milch)
+- 250ml Gemüsebrühe
+- 50g Butter
+- 50g Mehl
+- Chilifäden
 
 
 
@@ -86,4 +83,4 @@ Das ganze jetzt in eine Auflaufform schichten. Zuerst die Reis-Gemüsemischung, 
 Und danach heißt es genießen. Guten Hunger!
 
 
-[![](http://www.pgunited.de/wp-content/uploads/2014/03/Vor-Reiszugabe-e1394055978584.jpg)](http://www.pgunited.de/wp-content/uploads/2014/03/Vor-Reiszugabe-e1394055978584.jpg)[![](http://www.pgunited.de/wp-content/uploads/2014/03/Fertige-Füllung-e1394055948340.jpg)](http://www.pgunited.de/wp-content/uploads/2014/03/Fertige-Füllung-e1394055948340.jpg)[![](http://www.pgunited.de/wp-content/uploads/2014/03/Eine-Schicht-e1394055660792.jpg)](http://www.pgunited.de/wp-content/uploads/2014/03/Eine-Schicht-e1394055660792.jpg)[![](http://www.pgunited.de/wp-content/uploads/2014/03/Fertig-geschichtet-Streukäse-war-alle-e1394055962949.jpg)](http://www.pgunited.de/wp-content/uploads/2014/03/Fertig-geschichtet-Streukäse-war-alle-e1394055962949.jpg)[![](http://www.pgunited.de/wp-content/uploads/2014/03/Frisch-aus-dem-Backofen-e1394055933805.jpg)](http://www.pgunited.de/wp-content/uploads/2014/03/Frisch-aus-dem-Backofen-e1394055933805.jpg)[![](http://www.pgunited.de/wp-content/uploads/2014/03/mhmmmm-e1394055994575.jpg)](http://www.pgunited.de/wp-content/uploads/2014/03/mhmmmm-e1394055994575.jpg)
+[![](http://www.pgunited.de/wp-content/uploads/2014/03/Vor-Reiszugabe.jpg)](http://www.pgunited.de/wp-content/uploads/2014/03/Vor-Reiszugabe.jpg)[![](http://www.pgunited.de/wp-content/uploads/2014/03/Fertige-Füllung.jpg)](http://www.pgunited.de/wp-content/uploads/2014/03/Fertige-Füllung.jpg)[![](http://www.pgunited.de/wp-content/uploads/2014/03/Eine-Schicht.jpg)](http://www.pgunited.de/wp-content/uploads/2014/03/Eine-Schicht.jpg)[![](http://www.pgunited.de/wp-content/uploads/2014/03/Fertig-geschichtet-Streukäse-war-alle.jpg)](http://www.pgunited.de/wp-content/uploads/2014/03/Fertig-geschichtet-Streukäse-war-alle.jpg)[![](http://www.pgunited.de/wp-content/uploads/2014/03/Frisch-aus-dem-Backofen.jpg)](http://www.pgunited.de/wp-content/uploads/2014/03/Frisch-aus-dem-Backofen.jpg)[![](http://www.pgunited.de/wp-content/uploads/2014/03/mhmmmm.jpg)](http://www.pgunited.de/wp-content/uploads/2014/03/mhmmmm.jpg)

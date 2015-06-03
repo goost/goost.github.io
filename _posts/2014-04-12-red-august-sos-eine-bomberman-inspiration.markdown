@@ -1,24 +1,20 @@
 ---
-author: FitzChivalrik
+author: goost
 comments: true
 date: 2014-04-12 20:37:54+00:00
 layout: post
 slug: red-august-sos-eine-bomberman-inspiration
 title: Red August SOS - Eine Bomberman Inspiration
 wordpress_id: 351
+permalink: /2014/04/12/red-august-sos-eine-bomberman-inspiration/
 categories:
-- Allgemein
-- Java
+- Projects
 ---
 
 Im dritten Semester steht bei uns ein so genanntes Drittsemesterprojekt auf dem Plan. Mein Semester erstellte eine Arcade Games Collection, eine Kollektion von selbstprogrammierten Spielen, die von den alten Arcade Spielen aus den 80ern und so inspiriert sind. Ursprünglich hatte ich vor, die gesamte Collection vorzustellen, aber leider habe ich diese bis heute nicht erhalten. Mein eigenes Projekt befindet sich natürlich in meinem Besitz.
 
 
-
-
 Wir haben uns nämlich von Bomberman inspirieren lassen und ein Mehrspieler Bomberman Unterwasser erstellt, Red August SOS, kurz Rasos. 2-4 Spieler versuchen die Red August zu bergen und dabei ihre Gegner mit Kugelfischen zu sprengen. Wer als letztes steht, hat gewonnen!
-
-
 
 
 Die Graphiken stammen komplett von meiner Freundin und den Code haben wir selbst geschrieben. Im Hintergrund arbeitet ein zweidimensionales Array, in diesem liegen alle GameObjects (Spieler, Quallen, Kugelfische etc.). Das Array wird zum Zeichnen einmal durchlaufen und jedes Objekt zeichnet sich selbst. Leider führte das zu Problemen bei den Animationen, die über mehrere Felder hinausgehen ( z.B. die Spielerbewegung), sie waren sprunghaft. Das war unserer Unerfahrenheit zuzurechnen, aber wir konnten das Projekt nicht mehr umändern, alles baute darauf auf. Im Endeffekt tricksten wir mit temporären Objekten, schön ist das nicht, aber es funktioniert (wenn der Sprung trotzdem nicht komplett weg ist). Deswegen ist der Player in seinem Spritesheet auch so zerstückelt ^^.

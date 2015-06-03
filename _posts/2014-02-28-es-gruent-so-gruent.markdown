@@ -1,13 +1,14 @@
 ---
-author: FitzChivalrik
+author: goost
 comments: true
 date: 2014-02-28 11:19:19+00:00
 layout: post
 slug: es-gruent-so-gruent
 title: Es grünt so grünt
+permalink: /2014/02/28/es-gruent-so-gruent/
 wordpress_id: 266
 categories:
-- Allgemein
+- Personal
 tags:
 - Leben
 - Pflanze
@@ -23,4 +24,4 @@ Gestern kam aber nun das erste Grün in mein Zimmer. Ein geflochtener Bogenhanf,
 
 
 
-[![Armer Topf](http://www.pgunited.de/wp-content/uploads/2014/02/armer_topf-225x300.jpg)](http://www.pgunited.de/wp-content/uploads/2014/02/armer_topf.jpg)[![Geflochtener Bogenhanf](http://www.pgunited.de/wp-content/uploads/2014/02/bogenhanf_geflochten-225x300.jpg)](http://www.pgunited.de/wp-content/uploads/2014/02/bogenhanf_geflochten.jpg)
+[![Armer Topf](http://www.pgunited.de/wp-content/uploads/2014/02/armer_topf.jpg)](http://www.pgunited.de/wp-content/uploads/2014/02/armer_topf.jpg)[![Geflochtener Bogenhanf](http://www.pgunited.de/wp-content/uploads/2014/02/bogenhanf_geflochten.jpg)](http://www.pgunited.de/wp-content/uploads/2014/02/bogenhanf_geflochten.jpg)

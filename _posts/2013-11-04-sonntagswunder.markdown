@@ -1,13 +1,15 @@
 ---
-author: FitzChivalrik
+author: goost
 comments: true
 date: 2013-11-04 23:36:12+00:00
 layout: post
 slug: sonntagswunder
 title: Sonntagswunder
+permalink: /2013/11/05/sonntagswunder/
 wordpress_id: 55
+imagefeature: vegan_zuchinni.jpg
 categories:
-- Allgemein
+- Personal
 tags:
 - Essen
 - Kochen
@@ -15,7 +17,7 @@ tags:
 - Vegetarisch
 ---
 
-[![Gegrillte Zucchine mit Pesto-Reis](http://www.pgunited.de/wp-content/uploads/2013/11/IMG_20131103_200907.jpg)](http://www.pgunited.de/wp-content/uploads/2013/11/IMG_20131103_200907.jpg)Wusstet ihr, dass am 01.11.2013 der internationale Vegane Tag war? Ich ernähre mich seit ein paar Jahren jetzt vegetarisch, aber aus Kosten- (und Zeitgründen, Einarbeitung und so!) bin ich noch nicht bei der veganen Ernährung angekommen. Manche mögen mich deswegen als Heuchler bezeichnen, aber nicht jeder ist als Weltverbesserer geboren, ein jeder muss für sich entscheiden, wie er leben möchte und wie viel er bereit ist zu geben. Das soll hier aber jetzt auch gar kein Disput für und gegen eine vegane Ernährung werden, ich finde es aber wichtig, vor allem wenn solche Tage sind, das Thema noch einmal in den Vordergrund zu bringen und präsent zu machen. So habe ich am Sonntag den veganen Tag für mich nachgeholt. Freitag ging nicht, da ich von 0900 bis 2000 Uhr in der Hochschule war und mich leider nicht gebührend dafür vorbereitet hatte (und hungern wollte ich auch nicht).
+Wusstet ihr, dass am 01.11.2013 der internationale Vegane Tag war? Ich ernähre mich seit ein paar Jahren jetzt vegetarisch, aber aus Kosten- (und Zeitgründen, Einarbeitung und so!) bin ich noch nicht bei der veganen Ernährung angekommen. Manche mögen mich deswegen als Heuchler bezeichnen, aber nicht jeder ist als Weltverbesserer geboren, ein jeder muss für sich entscheiden, wie er leben möchte und wie viel er bereit ist zu geben. Das soll hier aber jetzt auch gar kein Disput für und gegen eine vegane Ernährung werden, ich finde es aber wichtig, vor allem wenn solche Tage sind, das Thema noch einmal in den Vordergrund zu bringen und präsent zu machen. So habe ich am Sonntag den veganen Tag für mich nachgeholt. Freitag ging nicht, da ich von 0900 bis 2000 Uhr in der Hochschule war und mich leider nicht gebührend dafür vorbereitet hatte (und hungern wollte ich auch nicht).
 Wie sah mein Sonntagsmenü nun aus?<!-- more -->
 Zu allererst hab ich grandios verschlafen, da ich ja bis in die frühen Morgenstunden an der Geburt dieses Blogs saß. Im Endeffekt weckte mich meine Freundin, die an der Tür klingelte. Mein Mitbewohner musste sogar öffnen, da ich nicht so schnell in die Puschen kam.[![Gegrillte Zucchine mit Pesto-Reis von nahem](http://www.pgunited.de/wp-content/uploads/2013/11/IMG_20131103_200925.jpg)](http://www.pgunited.de/wp-content/uploads/2013/11/IMG_20131103_200925.jpg)
 Der Plan war, dass ich zum Frühstück für uns beide einen leckeren Salat zubereite, Salat Rico Blätter, Champignons, Paprika, Tomaten und Spinat, das Ganze mit Olivenöl, Kräutern und etwas Chilisoße verfeinert. Da sie aber nichts von wusste, war es dann nicht so schlimm, dass wir im Endeffekt den Salat zusammen schnippelten. Geschmeckt hat er trotzdem. Leider hab ich vergessen davon Bilder zu machen, beim nächsten Mal.

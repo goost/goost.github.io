@@ -1,13 +1,14 @@
 ---
-author: FitzChivalrik
+author: goost
 comments: true
 date: 2014-03-01 00:06:15+00:00
 layout: post
 slug: erfahrungsbericht-auswahlseminar-studienstiftung-1-tag
 title: 'Erfahrungsbericht: Auswahlseminar Studienstiftung (1.Tag)'
+permalink: /2014/03/01/erfahrungsbericht-auswahlseminar-studienstiftung-1-tag/
 wordpress_id: 277
 categories:
-- Allgemein
+- Personal
 tags:
 - Erfahrungsbericht
 - Leben
@@ -32,10 +33,14 @@ Nach der Auftaktveranstaltung war der Pflichtteil für heute vorbei und wir konn
 
 Alles in allem habe ich erstmal einen sehr positiven Eindruck. Heute war aber auch kein Gespräch und kein Vortrag. Wer weiß wie es dann morgen Abend aussieht? Jetzt bin ich aber positiv gestimmt und da mein Referat erst am Nachmittag ist, habe ich genug Zeit vorher noch einmal alles durchzugehen (die armen Leute die bereits um 0830 halten müssen :O). Dann heißt es, Augen zu und durch, man selbst sein und das Beste hoffen. Wie es dann war, das berichte ich morgen (sofern abends genug Zeit dafür bleibt ;)).
 
-[![Dusche des Zimmers](http://www.pgunited.de/wp-content/uploads/2014/03/Dusche_des_Zimmers-e1393632242572-225x300.jpg)](http://www.pgunited.de/wp-content/uploads/2014/03/Dusche_des_Zimmers.jpg)
-
-[![Zimmer](http://www.pgunited.de/wp-content/uploads/2014/03/zimmer-e1393632218926-300x225.jpg)](http://www.pgunited.de/wp-content/uploads/2014/03/zimmer.jpg)
-
+<figure class="half">
+	<a href="{{ site.url }}/wp-content/uploads/2014/03/Dusche_des_Zimmers.jpg" title="Zimmerdusche">
+	<img scr="{{ site.url }}/wp-content/uploads/2014/03/Dusche_des_Zimmers.jpg" alt="Dusche des Zimmers">
+	</a> 
+	<a href="{{ site.url }}/wp-content/uploads/2014/03/zimmer.jpg" title="Zimmer">
+	<img scr="{{ site.url }}/wp-content/uploads/2014/03/zimmer.jpg" alt="Zimmer">
+	</a>
+</figure>
 
 
 

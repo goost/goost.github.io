@@ -1,13 +1,14 @@
 ---
-author: FitzChivalrik
+author: goost
 comments: true
 date: 2014-03-02 22:08:40+00:00
 layout: post
 slug: erfahrungsbericht-auswahlseminar-studienstiftung-3-tag
 title: 'Erfahrungsbericht: Auswahlseminar Studienstiftung (3.Tag)'
+permalink: /2014/03/02/erfahrungsbericht-auswahlseminar-studienstiftung-3-tag/
 wordpress_id: 285
 categories:
-- Allgemein
+- Personal
 tags:
 - Erfahrungsbericht
 - Leben

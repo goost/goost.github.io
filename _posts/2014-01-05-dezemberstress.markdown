@@ -1,13 +1,14 @@
 ---
-author: FitzChivalrik
+author: goost
 comments: true
 date: 2014-01-05 18:12:30+00:00
 layout: post
 slug: dezemberstress
 title: Dezemberstress
+permalink: /2014/01/05/dezemberstress/
 wordpress_id: 235
 categories:
-- Allgemein
+- Personal
 ---
 
 Lange ists nun her seit meinem letzten Eintrag. Der Dezember ist immer ein sehr geschäftiger Monat, da sich das Semester dem Ende zuneigt. Abgaben wollen fertig gestellt werden und das Klausurenlernen fängt so langsam an (Mitte Januar geht es bereits los!). Zusätzlich war noch Bewerbungsfrist für ein Auslandssemester. Ich habe mich für ein Semester in unserer Partnerhochschule in Hiroshima beworben und dafür musste ein Lebenslauf und Motivationsschreiben erstellt werden, beides in englischer Sprache. Der Termin für das Auswahlgespräch war dann noch kurz vor Weihnachten,  die Vorbereitung dafür brauchte auch wieder Zeit. Am Tage darauf war eine mündliche Prüfung, die wollte ebenso erfolgreich und gut abgeschlossen werden. Und die Geschenke erst! Darum muss man sich auch jedes Jahr aufs Neue kümmern, dieses Jahr wurden von mir selbst erstellten Pralinen erstellt ([diese](http://www.kuechengoetter.de/rezepte/Pralinen-Konfekt/Feurige-Chili-Trueffel-17722.html) und [diese](http://www.kuechengoetter.de/rezepte/Pralinen-Konfekt/Nougatpralinen-13663.html) hier), Silvester und Familienbesuche wollten geplant werden etc etc. *sigh*. Unser Programmierprojekt möchte auch gerne fertiggestellt werden. Also, fertig ist es eigentlich schon, aber ohne Grafiken, nur mit Kästchen, sieht es einfach nach nichts aus und viele Kleinigkeiten funktionieren noch nicht so, wie ich es gern hätte. Wenn ich bei diesem Projekt eins gelernt habe, dann ist es, dass Kleinigkeiten, mal wieder, die meiste Zeit verbraten.

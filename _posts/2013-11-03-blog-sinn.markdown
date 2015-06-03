@@ -1,5 +1,6 @@
 ---
-author: FitzChivalrik
+author: goost
+permalink: /2013/11/03/blog-sinn/
 comments: true
 date: 2013-11-03 01:30:49+00:00
 layout: post
@@ -7,7 +8,7 @@ slug: blog-sinn
 title: Blog-Sin(n)
 wordpress_id: 1
 categories:
-- Allgemein
+- Personal
 tags:
 - Info
 - Leben

@@ -1,13 +1,14 @@
 ---
-author: FitzChivalrik
+author: goost
 comments: true
 date: 2014-07-17 00:13:48+00:00
 layout: post
 slug: still-alive-ein-update-ueber-die-letzten-wochen
 title: Still alive - ein Update über die letzten Wochen
 wordpress_id: 374
+permalink: /2014/07/17/still-alive-ein-update-ueber-die-letzten-wochen/
 categories:
-- Allgemein
+- Personal
 ---
 
 Puh, seit meinem letzten Eintrag ist schon 'ne kleine Weile ins Land gezogen, gell?
@@ -30,7 +31,7 @@ Mein persönliches Highlight dabei war gestern das Einjährige von mir und meine
 
 
 
-Den Anfang machte eine [Schöberl](http://www.kochbar.de/rezept/284515/SCHOEBERL.html)-Suppe, ich verfeinerte den Teig mit Rauchsalz, Kräutern und etwas Chili. Als Hauptgang gab es dann selbstgemachte [Spinatspätzle](http://www.chefkoch.de/rezepte/737891176330279/Spinatspaetzle.html) (ich habe Instantmehl genommen) mit [sauren Linsen](http://www.kuriositaetenladen.com/2013/09/saure-linsen-mit-spatzle.html). Die Linsen waren für mich das Highlight, der Wein hat den ganzen eine so wunderbare Note gegeben, ihr dürft denn auf keinen Fall weglassen (so wie ich es erst vorhatte OTZ). Für meine Freundin war das Highlight allerdings der Nachtisch, [Mohnnudeln](http://typischich.at/home/wienerin/geniessen/552759/VollkornMohnnudeln) (ich habe kein Vollkornmehl genommen, weil ich einfach kein Vollkorn wollte). Zu den Nudeln gab es Schokosirup, geschnittene Banane, Heidelbeeren und oben drüber noch ein Eis. Bilder hab ich leider keine, es wurde zu schnell verputzt und ich hab nicht daran gedacht :O. Aber ich arbeite ja noch an meinen Blogfähigkeiten ![:oops:](http://www.pgunited.de/wp-includes/images/smilies/icon_redface.gif)  .
+Den Anfang machte eine [Schöberl](http://www.kochbar.de/rezept/284515/SCHOEBERL.html)-Suppe, ich verfeinerte den Teig mit Rauchsalz, Kräutern und etwas Chili. Als Hauptgang gab es dann selbstgemachte [Spinatspätzle](http://www.chefkoch.de/rezepte/737891176330279/Spinatspaetzle.html) (ich habe Instantmehl genommen) mit [sauren Linsen](http://www.kuriositaetenladen.com/2013/09/saure-linsen-mit-spatzle.html). Die Linsen waren für mich das Highlight, der Wein hat den ganzen eine so wunderbare Note gegeben, ihr dürft denn auf keinen Fall weglassen (so wie ich es erst vorhatte OTZ). Für meine Freundin war das Highlight allerdings der Nachtisch, [Mohnnudeln](http://typischich.at/home/wienerin/geniessen/552759/VollkornMohnnudeln) (ich habe kein Vollkornmehl genommen, weil ich einfach kein Vollkorn wollte). Zu den Nudeln gab es Schokosirup, geschnittene Banane, Heidelbeeren und oben drüber noch ein Eis. Bilder hab ich leider keine, es wurde zu schnell verputzt und ich hab nicht daran gedacht :O. Aber ich arbeite ja noch an meinen Blogfähigkeiten ![:oops:]({{ site.url }}/images/emoticons/icon_redface.gif) .
 
 
 

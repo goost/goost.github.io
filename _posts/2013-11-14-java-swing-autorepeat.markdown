@@ -1,11 +1,12 @@
 ---
-author: FitzChivalrik
+author: goost
 comments: true
 date: 2013-11-14 21:19:06+00:00
 layout: post
 slug: java-swing-autorepeat
 title: 'Java (Swing): Autorepeat von Tastendrücken abfangen'
 wordpress_id: 136
+permalink: /2013/11/14/java-swing-autorepeat/
 categories:
 - Development
 - Java

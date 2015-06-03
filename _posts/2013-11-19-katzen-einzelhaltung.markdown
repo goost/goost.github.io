@@ -1,13 +1,14 @@
 ---
-author: FitzChivalrik
+author: goost
 comments: true
 date: 2013-11-19 21:22:41+00:00
 layout: post
 slug: katzen-einzelhaltung
 title: 'Katzen: Der Mythos der Einzelhaltung'
 wordpress_id: 170
+permalink: /2013/11/19/katzen-einzelhaltung/
 categories:
-- Allgemein
+- Personal
 tags:
 - Haustiere
 - Katzen
@@ -47,11 +48,11 @@ gegeben. Man hört jedoch immer wieder, dass wenn die Katze nur genug versorgt s
 
 
 
-Die Katze ist immer wieder alleine (Privatleben, Arbeit, Sonstiges), die Katze ist also einsam!
-Langeweile stellt sich früher oder später immer ein, die Katze ist unterfordert, Insekten ihr Highlight
-Die Katze resigniert entweder oder wird aggressiv, frisst mehr und neigt zu Übergewicht (was Krankheiten fördert!)
-Die Katze wird physisch und psychisch nicht ausgelastet, kann ihre Triebe nicht ausleben
-Sie hat niemanden, um auf "kätzisch" zu reden
+- Die Katze ist immer wieder alleine (Privatleben, Arbeit, Sonstiges), die Katze ist also einsam!
+- Langeweile stellt sich früher oder später immer ein, die Katze ist unterfordert, Insekten ihr Highlight
+- Die Katze resigniert entweder oder wird aggressiv, frisst mehr und neigt zu Übergewicht (was Krankheiten fördert!)
+- Die Katze wird physisch und psychisch nicht ausgelastet, kann ihre Triebe nicht ausleben
+- Sie hat niemanden, um auf "kätzisch" zu reden
 
 
 
@@ -64,11 +65,11 @@ Eine Einzelhaft in der Wohnung fördert und führt meist zu Verhaltensstörungen
 
 
 
-Die Katzen können ohne schlechtes Gewissen auch mehrere Stunden alleine gelassen werden, sie haben sich gegenseitig zum spielen
-Die Katzen sind ausgeglichener und ruhiger
-Die Mehrkosten halten sich in Grenzen (ausgenommen Tierarzt, aber diese können immer in die Höhe schnellen)
-Durch gemeinsames Spielen und die Bewegung werden die Risiken vieler Krankheiten gesenkt und die Katzen bleiben bis ins hohe Alter fit
-Zusammen finden sich immer wieder neue Möglichkeiten des Spiels
+- Die Katzen können ohne schlechtes Gewissen auch mehrere Stunden alleine gelassen werden, sie haben sich gegenseitig zum spielen
+- Die Katzen sind ausgeglichener und ruhiger
+- Die Mehrkosten halten sich in Grenzen (ausgenommen Tierarzt, aber diese können immer in die Höhe schnellen)
+- Durch gemeinsames Spielen und die Bewegung werden die Risiken vieler Krankheiten gesenkt und die Katzen bleiben bis ins hohe Alter fit
+- Zusammen finden sich immer wieder neue Möglichkeiten des Spiels
 
 
 
@@ -81,7 +82,8 @@ Es spricht im Grunde genommen nichts gegen die Anschaffung einer zweiten Katze, 
 
 			
 
-Immer wieder hört man doch aber von Einzelgängern (vor allem im Tierheim), die unverträglich mit anderen Katzen seien. Diese Katzen sind meist genau die, die ursprünglich in Einzelhaltung gehalten worden sind und sich soweit desozialisiert haben, dass sie mit anderen Katzen nicht mehr umgehen können. Kitten lernen bis zur zwölften Woche noch von der Mutter, dabei werden sie auch richtig sozialisiert und lernen ihre Grenzen kennen. Ohne dieses notwendige Wissen haben sie es später sehr schwer. Ist die Mutter verhindert, so kann auch eine etwas ältere Katze die Sozialisierung übernehmen. Leider wird aber dem Kätzchen meiner Bekannten genau dieses verwehrt. Gerade in so jungem Alter braucht das Kätzchen einfach eine zweite, etwas ältere Katze, von der es lernen kann. Selbst wenn das Kitten später Freigang haben wird, so findet die Sozialisierungsphase genau jetzt statt und kann nicht nachgeholt werden. Es ist mir da aber nicht gelungen Einsicht zu bringen. Ich hoffe aber, dass dieser Post einige zum Nach- und Umdenken anregt. Katzen sind wunderbare Tiere und wenn wir welche adoptieren, so ist es unsere Pflicht, alles dafür zu tun, dass es den Katzen bei uns gutgeht. Tiere im Haus zu haben ist eine große Verantwortung und nichts, was man mal eben so entscheiden sollte. Es bringt aber auch jede Menge Freude mit sich. Weiteres zum Thema Katzenhaltung und mehr findet sich unter folgenden Links, die teilweise auch als meine Quelle dienten.
+Immer wieder hört man doch aber von Einzelgängern (vor allem im Tierheim), die unverträglich mit anderen Katzen seien. Diese Katzen sind meist genau die, die ursprünglich in Einzelhaltung gehalten worden sind und sich soweit desozialisiert haben, dass sie mit anderen Katzen nicht mehr umgehen können. Kitten lernen bis zur zwölften Woche noch von der Mutter, dabei werden sie auch richtig sozialisiert und lernen ihre Grenzen kennen. Ohne dieses notwendige Wissen haben sie es später sehr schwer. Ist die Mutter verhindert, so kann auch eine etwas ältere Katze die Sozialisierung übernehmen. Leider wird aber dem Kätzchen meiner Bekannten genau dieses verwehrt. Gerade in so jungem Alter braucht das Kätzchen einfach eine zweite, etwas ältere Katze, von der es lernen kann. Selbst wenn das Kitten später Freigang haben wird, so findet die Sozialisierungsphase genau jetzt statt und kann nicht nachgeholt werden. Es ist mir da aber nicht gelungen Einsicht zu bringen. Ich hoffe aber, dass dieser Post einige zum Nach- und Umdenken anregt. Katzen sind wunderbare Tiere und wenn wir welche adoptieren, so ist es unsere Pflicht, alles dafür zu tun, dass es den Katzen bei uns gutgeht. Tiere im Haus zu haben ist eine große Verantwortung und nichts, was man mal eben so entscheiden sollte. Es bringt aber auch jede Menge Freude mit sich.  
+Weiteres zum Thema Katzenhaltung und mehr findet sich unter folgenden Links, die teilweise auch als meine Quelle dienten.
 
 
 

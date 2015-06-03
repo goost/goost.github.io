@@ -5,10 +5,11 @@ date: 2014-07-23 13:21:26+00:00
 layout: post
 slug: braintrain-projekt-osg
 title: BrainTrain - Projekt in OpenSceneGraph (OSG)
+permalink: /2014/07/23/braintrain-projekt-osg/
 wordpress_id: 382
 categories:
-- C++
 - Development
+- C++
 tags:
 - C++
 - Demo

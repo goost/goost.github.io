@@ -1,10 +1,11 @@
 ---
-author: FitzChivalrik
+author: goost
 comments: true
 date: 2013-11-26 23:29:32+00:00
 layout: post
 slug: persona-hoch-vier
 title: Persona hoch vier!
+permalink: /2013/11/27/persona-hoch-vier/
 wordpress_id: 226
 categories:
 - Games

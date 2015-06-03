@@ -1,13 +1,14 @@
 ---
-author: FitzChivalrik
+author: goost
 comments: true
 date: 2014-09-02 17:11:38+00:00
 layout: post
 slug: lsi-japonicum-japanisch-grundkurs-bochum-erfahrungsbericht
 title: 'LSI Japonicum - Japanisch Grundkurs in Bochum - Erfahrungsbericht '
 wordpress_id: 401
+permalink: /2014/09/02/lsi-japonicum-japanisch-grundkurs-bochum-erfahrungsbericht/
 categories:
-- Allgemein
+- Personal
 tags:
 - Erfahrungsbericht
 - Japan

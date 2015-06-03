@@ -6,8 +6,9 @@ layout: post
 slug: sehfest-bento-und-onigiri-mit-curryreis
 title: Sehfest-Bento und Onigiri mit Curryreis
 wordpress_id: 474
+permalink: /2014/09/23/sehfest-bento-und-onigiri-mit-curryreis/
 categories:
-- Allgemein
+- Personal
 ---
 
 Vor, mittlerweile knapp drei Wochen, fand bei uns in der Stadt das Sehfest statt. Das ist eine Art Freilichtkino welches seit zehn Jahren jedes Jahr veranstaltet wird. Man bringt sein eigenes Picknick mit, isst schön bevor der Film beginnt und schaut sich dann mit Anbruch der Dunkelheit gemütlich den Blockbuster an. Wenn es regnet werden freundlicherweise Regencapes verteilt =).

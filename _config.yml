@@ -1,34 +1,37 @@
+#destination:      pgunited
 title:            PG United
 description:      "Sciences and more"
 locale:           en_US
 logo:             logo.jpg
-disqus_shortname: goost
+disqus_shortname: pgunited
 share:            true
 readtime:		  true
 wpm:			  200
 dropcap:		  true
 theme:			  blue
 nprogress:        true
-header_bg:        alleyway.jpg
-author_bg:		  newyork.jpg
+header_bg:        kyudo_shoot.jpg
+author_bg:		  
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:              http://tmp.pgunited.de
-
+url:              http://pgunited.de
+#url:                localhost
 # Owner/author information
 owner:
   name:           Gleb Ostrowski
-  avatar:         hmfaysal-sylhet-83.jpg
+  avatar:         hh_dungeon.jpg
   email:          askme@pgunited.de
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Applied Computer Science B.Sc. Student from Hanover, Germany. German National Merit Foundation scholarship holder. Game Developer to be. Blogger to be. Professional to be. Knowledge-Lover. Still much to be, but going there. And then going further.
-  twitter:        
+  twitter:        pgu_goost
   facebook:       pgunited
-  github:         goost      
+  github:         goost 
+  linkedin:       true
+  xing:           Gleb_Ostrowski   
   instagram:      
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:   113190391475563762817
 
 # Analytics and webmaster tools stuff goes here
 #google_analytics:   
@@ -44,23 +47,23 @@ links:
     url: /
     external: false
     icon: home
-  - title: Featured Posts
-    url: /featured
+  - title: Blog
+    url: /blog
+  - title: Projects
+    url: /projects
   - title: Categories
     url: /categories
-  - title: About
-    url: /about
   - title: Über Mich
     url: /ueber-mich
   
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Berlin
 future:      true
-highlighter: pygments
-#highlighter:  rouge
+#highlighter: pygments
+highlighter:  rouge
 markdown:    kramdown
 paginate:    5
-paginate_path: "page:num"
+paginate_path: "/blog/page:num"
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
@@ -81,8 +84,8 @@ kramdown:
     coderay_css: class
 
 prose:
-  siteurl: 'tmp.pgunited.de'
-  relativeLinks: 'tmp.pgunited.de'
+  siteurl: 'pgunited.de'
+  relativeLinks: 'pgunited.de'
   media: 'images/post'
   metadata:
     _posts:
@@ -120,20 +123,20 @@ prose:
           options:
             - name: "Personal"
               value: personal
-            - name: "Engineering"
-              value: engineering
-            - name: "Mathematics"
-              value: mathematics
-            - name: "Physics"
-              value: physics
-            - name: "Psychology"
-              value: psychology
-            - name: "Photography"
-              value: photography
-            - name: "Interesting"
-              value: interesting
-            - name: "Web-Development"
-              value: webdevelopment
+            - name: "Cooking"
+              value: cooking
+            - name: "Games"
+              value: games
+            - name: "Development"
+              value: development
+            - name: "C++"
+              value: cpp
+            - name: "Java"
+              value: java
+            - name: "Scripts"
+              value: scripts
+            - name: "Projects"
+              value: projects
           alterable: true
       - name: "tags"
         field:
@@ -209,4 +212,4 @@ prose:
 
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Thumbs.db"]
+exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Thumbs.db", "compileAndUpload.bat"]

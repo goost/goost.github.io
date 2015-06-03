@@ -1,13 +1,14 @@
 ---
-author: FitzChivalrik
+author: goost
 comments: true
 date: 2014-03-19 14:36:34+00:00
 layout: post
 slug: graffiti-kunst
 title: Graffiti Kunst
+permalink: /2014/03/19/graffiti-kunst/
 wordpress_id: 346
 categories:
-- Allgemein
+- Personal
 tags:
 - Leben
 ---

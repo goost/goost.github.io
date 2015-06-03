@@ -1,21 +1,15 @@
 ---
-author: FitzChivalrik
+author: goost
 comments: true
 date: 2014-04-18 20:57:21+00:00
 layout: post
 slug: spargelzeit
 title: Spargelzeit!
+permalink: /2014/04/18/spargelzeit/
 wordpress_id: 366
 categories:
-- Allgemein
+- Personal
 ---
-
-
-
-
-
-
-
 
 
 Es ist wieder soweit, es ist Spargelzeit! Seit einer Woche hat der Spargelhändler meines Vertrauens (Hof Soltau) nun wieder Spargel am Stand bei mir um die Ecke und heute kam ich endlich wieder nach knapp 9 Monaten in den Genuss dieses gesunden Gemüses. Spargel soll harntreibend und reinigend wirken, der Koch in einem Kochkurs, den ich mal besuchte, meinte, Spargel sei das perfekte Gemüse um seinen Körper vom Winterbauch zu reinigen.

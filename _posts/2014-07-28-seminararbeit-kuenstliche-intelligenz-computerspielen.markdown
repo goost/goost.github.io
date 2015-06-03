@@ -1,15 +1,14 @@
 ---
-author: FitzChivalrik
+author: goost
 comments: true
 date: 2014-07-28 21:51:34+00:00
 layout: post
 slug: seminararbeit-kuenstliche-intelligenz-computerspielen
 title: Seminararbeit - Künstliche Intelligenz in Computerspielen
 wordpress_id: 392
+permalink: /2014/07/28/seminararbeit-kuenstliche-intelligenz-computerspielen/
 categories:
-- Allgemein
-- Development
-- Java
+- Projects
 tags:
 - Demo
 - Development
@@ -26,7 +25,7 @@ Ich und mein Partner hatten Glück, wir hatten uns für das Seminar "Computerspi
 
 
 
-Hier der Abstract, damit ihr wisst, ob sich der Download für euch lohnt ![;)](http://www.pgunited.de/wp-includes/images/smilies/icon_wink.gif)
+Hier der Abstract, damit ihr wisst, ob sich der Download für euch lohnt ![;)]({{ site.url }}/images/emoticons/icon_wink.gif)
 
 ### ABSTRACT
 

@@ -1,13 +1,14 @@
 ---
-author: FitzChivalrik
+author: goost
 comments: true
 date: 2013-11-11 14:20:55+00:00
 layout: post
+permalink: /2013/11/11/pimp-my-bread/
 slug: pimp-my-bread
 title: Pimp my Bread
 wordpress_id: 105
 categories:
-- Kochtipps
+- Cooking
 tags:
 - Kochen
 - Rezept

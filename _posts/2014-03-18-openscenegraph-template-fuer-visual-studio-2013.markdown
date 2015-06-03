@@ -1,11 +1,12 @@
 ---
-author: FitzChivalrik
+author: goost
 comments: true
 date: 2014-03-18 21:14:26+00:00
 layout: post
 slug: openscenegraph-template-fuer-visual-studio-2013
 title: OpenSceneGraph Template für Visual Studio 2013
 wordpress_id: 342
+permalink: /2014/03/18/openscenegraph-template-fuer-visual-studio-2013/
 categories:
 - Development
 tags:

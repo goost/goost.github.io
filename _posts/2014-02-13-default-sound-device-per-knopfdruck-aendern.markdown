@@ -1,11 +1,12 @@
 ---
-author: FitzChivalrik
+author: goost
 comments: true
 date: 2014-02-13 03:49:29+00:00
 layout: post
 slug: default-sound-device-per-knopfdruck-aendern
 title: 'Script: Default Sound Device per Knopfdruck ändern'
 wordpress_id: 253
+permalink: /2014/02/13/default-sound-device-per-knopfdruck-aendern/
 categories:
 - Development
 - Scripts

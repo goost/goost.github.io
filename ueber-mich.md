@@ -17,7 +17,7 @@ Zurzeit bin ich Student der Angewandten Informatik, dementsprechend werden einig
 #### Das Kochen, die Katzen und der ganze Rest
 
 
-Beschäftige ich mich grad mal nicht mit meinem Studium oder einem davon verwandten Thema so koche ich für mein Leben gerne. Ursprünglich gelernt um die Frauen zu beeindrucken (laut meiner Freundin hat es geklappt), hat es sich mittlerweile zu einer wahren Freude entwickelt. Ich ertappe mich öfters dabei, dass ich mich trotz eines langen Tages wie automatisch an den Herd stelle und etwas Schnelles zusammenschnippele. Obwohl ich riesen Hunger habe und das Toastbrot in Reichweite liegt. Es wird also immer wieder (oder ab und zu) auch ein paar Geschichten aus der Küche geben. Da ich Vegetarier  Flexianer* bin, hauptsächlich aus dem vegetarischem Bereich.
+Beschäftige ich mich grad mal nicht mit meinem Studium oder einem davon verwandten Thema so koche ich für mein Leben gerne. Ursprünglich gelernt um die Frauen zu beeindrucken (laut meiner Freundin hat es geklappt), hat es sich mittlerweile zu einer wahren Freude entwickelt. Ich ertappe mich öfters dabei, dass ich mich trotz eines langen Tages wie automatisch an den Herd stelle und etwas Schnelles zusammenschnippele. Obwohl ich riesen Hunger habe und das Toastbrot in Reichweite liegt. Es wird also immer wieder (oder ab und zu) auch ein paar Geschichten aus der Küche geben. Da ich <del>Vegetarier</del> Flexianer[^1] bin, hauptsächlich aus dem vegetarischem Bereich.
 
 Zu meinen absoluten Lieblingstieren zählen Katzen. Ich wohne zurzeit in einer WG, deswegen ist es leider nichts mit eigenen Katzen, aber Katzen sind so wunderbare Geschöpfe, dass ich vermutlich nicht drumrum kommen werde, ein, zwei, drei Beiträge diesen faszinierende Geschöpfen zu widmen.
 
@@ -31,4 +31,4 @@ Geboren bin ich in der Ukraine, aufgewachsen in Deutschland. Als ich erst zwei J
 
 
 
-*Ich stehe dem Fleischkonsum grundsätzlich nicht abgeneigt gegenüber, nur der Massentierhaltung. Deswegen hatte ich in Deutschland seit knapp vier Jahren kein Fleisch mehr gegessen. Anders sah dies in meinem Auslandsaufenhalt aus, weswegen der Begriff "Vegetarier" nicht mehr passend war.
+[^1]: Ich stehe dem Fleischkonsum grundsätzlich nicht abgeneigt gegenüber, nur der Massentierhaltung. Deswegen hatte ich in Deutschland seit knapp vier Jahren kein Fleisch mehr gegessen. Anders sah dies in meinem Auslandsaufenhalt aus, weswegen der Begriff "Vegetarier" nicht mehr passend war.

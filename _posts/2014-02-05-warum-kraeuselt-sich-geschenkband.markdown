@@ -1,13 +1,14 @@
 ---
-author: FitzChivalrik
+author: goost
 comments: true
 date: 2014-02-05 17:23:00+00:00
 layout: post
 slug: warum-kraeuselt-sich-geschenkband
 title: Warum kräuselt sich Geschenkband?
 wordpress_id: 240
+permalink: /2014/02/05/warum-kraeuselt-sich-geschenkband/
 categories:
-- Kleines Wissen
+- Personal
 tags:
 - Alltagsphänomäne
 - Wissen
