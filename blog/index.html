@@ -1,12 +1,12 @@
 ---
-layout: home
-title: Home
+layout: homeBlog
+title: Bloghome
 description: "The personal blog of Gleb Ostrowski, Applied Computer Science Student."
 headline: Sciences and more
 tags: [Gleb, Ostrowski, computer science, engineering, blog, university, cats, life, programmming]
 ---
 {% if site.paginate %}
-{% for post in paginated.posts %}
+{% for post in paginator.posts %}
 {% if site.wpm %}
 {% assign readtime = post.content | strip_html | number_of_words | append: '.0' | divided_by:site.wpm %}
 {% else %}
@@ -48,25 +48,25 @@ tags: [Gleb, Ostrowski, computer science, engineering, blog, university, cats, l
                 <p>{{ post.content | strip_html | truncatewords:30 }}</p>
             </section>
             <div class="notepad-index-post-tags">
-            {% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} category">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}{% if site.readtime %}&nbsp;<a><i class="fa fa-clock-o"></i> {% if readtime > 60 %}{% assign readtime_hours = readtime | divided_by: 60 %}{% assign readtime_minutes = readtime | modulo:60 %}{% if readtime_hours > 1 and readtime_hours < 2 %}1 hour{% else %}<span class="hour">{{ readtime_hours }}</span> hours{% endif %}{% if readtime_minutes < 1 %}{% elsif readtime_minutes > 1 and readtime_minutes < 1.5 %} and 1 minute {% elsif readtime_minutes > 1.5 %} and <span class="time">{{ readtime_minutes }}</span> minutes{% endif %}{% else %}{% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}<span class="time">{{ readtime }}</span> minutes {% endif %}{% endif %} read</a>{% endif %}{% if post.featured %}&nbsp;<a href="{{ site.url }}/featured"><i class="fa fa-star-half-o fa-spin"></i> Featured</a>{% endif %}{% if post.video %}&nbsp;<a><i class="fa fa-youtube-play"></i> Video</a>{% endif %}{% if post.location %}&nbsp;<a href="https://www.google.com/maps/place/{% if post.locationgps %}{{ post.locationgps }}{% else %}{{ post.location}}{% endif %}" target="_blank"><i class="fa fa-map-marker"></i> {{ post.location }}</a>{% endif %}
+            {% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} category">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}{% if site.readtime %}&nbsp;<a><i class="fa fa-clock-o"></i> {% if readtime > 60 %}{% assign readtime_hours = readtime | divided_by: 60 %}{% assign readtime_minutes = readtime | modulo:60 %}{% if readtime_hours > 1 and readtime_hours < 2 %}1 hour{% else %}<span class="hour">{{ readtime_hours }}</span> hours{% endif %}{% if readtime_minutes < 1 %}{% elsif readtime_minutes > 1 and readtime_minutes < 1.5 %} and 1 minute {% elsif readtime_minutes > 1.5 %} and <span class="time">{{ readtime_minutes }}</span> minutes{% endif %}{% else %}{% if readtime < 1 %}Less than 1 minute {% elsif readtime > 1 and readtime < 1.5 %}1 minute {% elsif readtime > 1.5 %}<span class="time">{{ readtime }}</span> minutes {% endif %}{% endif %} read</a>{% endif %}{% if post.featured %}&nbsp;<a href="{{ site.url }}/projects"><i class="fa fa-star-half-o fa-spin"></i> Project</a>{% endif %}{% if post.video %}&nbsp;<a><i class="fa fa-youtube-play"></i> Video</a>{% endif %}{% if post.location %}&nbsp;<a href="https://www.google.com/maps/place/{% if post.locationgps %}{{ post.locationgps }}{% else %}{{ post.location}}{% endif %}" target="_blank"><i class="fa fa-map-marker"></i> {{ post.location }}</a>{% endif %}
             </div>
         </div>
     </article>
 {% endfor %}
-{% if paginated.total_pages > 1 %}
+{% if paginator.total_pages > 1 %}
 <nav class="pagination" role="navigation">
-{% if paginated.previous_page %}
-    {% if paginated.previous_page == 1 %}
-        <a class="newer-posts" href="{{ site.url }}"><i class="fa fa-chevron-left"></i> Newer</a>
+{% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+        <a class="newer-posts" href="{{ site.url }}/blog"><i class="fa fa-chevron-left"></i> Newer</a>
     {% else %}
-        <a class="newer-posts" href="{{ site.url }}/page{{ paginated.previous_page }}"><i class="fa fa-chevron-left"></i> Newer</a>
+        <a class="newer-posts" href="{{ site.url }}/blog/page{{ paginator.previous_page }}"><i class="fa fa-chevron-left"></i> Newer</a>
     {% endif %}
 {% else %}
     <span class="newer-posts faded"><i class="fa fa-chevron-left"></i> Newer</span>
 {% endif %}
-<span class="page-number">Page {{ paginated.page }} of {{ paginated.total_pages }}</span>
-{% if paginated.next_page %}
-    <a class="older-posts" href="{{ site.url }}/page{{ paginated.next_page }}/">Older <i class="fa fa-chevron-right"></i></a>
+<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+{% if paginator.next_page %}
+    <a class="older-posts" href="{{ site.url }}/blog/page{{ paginator.next_page }}/">Older <i class="fa fa-chevron-right"></i></a>
 {% else %}
     <span class="older-posts faded">Older <i class="fa fa-chevron-right"></i></span>
 {% endif %}

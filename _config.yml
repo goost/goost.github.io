@@ -36,7 +36,7 @@ owner:
 # Analytics and webmaster tools stuff goes here
 #google_analytics:   
 #google_verify:
-piwik_url:  www.pgunited.de/piwik/      
+piwik_url:  sta.pgunited.de/      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 

@@ -1,7 +1,7 @@
 ---
 title: Home
 author: goost
-layout: page 
+layout: home
+description: "The personal website of Gleb Ostrowski, Applied Computer Science Student."
+headline: Sciences and more 
 ---
-
-BLABLATEST
