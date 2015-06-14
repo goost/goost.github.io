@@ -42,13 +42,11 @@ Personenbezogene Daten werden von dem Anbieter nur dann erhoben, genutzt und wei
 
 Bei der Kontaktaufnahme mit dem Anbieter (zum Beispiel per Kontaktformular oder E-Mail) werden die Angaben des Nutzers zwecks Bearbeitung der Anfrage sowie für den Fall, dass Anschlussfragen entstehen, gespeichert.
 
-**Kommentare und Beiträge**
+**Disqus**
 
-Wenn Nutzer Kommentare im Blog oder sonstige Beiträge hinterlassen, werden ihre IP-Adressen gespeichert. Das erfolgt zur Sicherheit des Anbieters, falls jemand in Kommentaren und Beiträgen widerrechtliche Inhalte schreibt (Beleidigungen, verbotene politische Propaganda, etc.). In diesem Fall kann der Anbieter selbst für den Kommentar oder Beitrag belangt werden und ist daher an der Identität des Verfassers interessiert.
+Die Seite nutzt das DISQUS-Kommentarsystem, das von der Firma DISQUS Inc., 301 Howard St., Suite 300, San Francisco, CA 94105, USA, bereitgestellt wird. Die Datenschutzinformationen von DISQUS befinden sich [hier](https://help.disqus.com/customer/portal/articles/466259-privacy-policy). DISQUS erlaubt die Anmeldung entweder über ein eigenes DISQUS-Nutzer-Konto oder über bestehende Nutzer-Konten bei Facebook, Twitter und Google Plus. Sofern man sich mit dem eigenen Accounts der Social-Media-Angebote bei der DISQUS-Funktion auf dieser Webseite anmeldt, werden auch diese Diensteanbieter Informationen zur Nutzung der DISQUS-Funktionen erheben und verarbeiten. Weitere Informationen hierzu finden sich in den Datenschutzinformationen der jeweiligen Anbieter.
 
-**Kommentarabonnements**
-
-Die Nachfolgekommentare können durch Nutzer abonniert werden. Die Nutzer erhalten eine Bestätigungsemail, um zu überprüfen, ob sie der Inhaber der eingegebenen Emailadresse sind. Nutzer können laufende Kommentarabonnements jederzeit abbestellen. Die Bestätigungsemail wird Hinweise dazu enthalten.
+DISQUS übermittelt die E-Mail-Adresse der Benutzer und die IP-Adresse, die während der Eingabe eines Kommentars verwendet wurde, an pgunited.de. Diese Informationen werden ausschließlich für den Zweck der Kontaktaufnahme im Zusammenhang mit Ihrer Nutzung von DISQUS benötigt. Eine unerlaubte Weitergabe an Dritte erfolgt selbstverständlich nicht.
 
 **Einbindung von Diensten und Inhalten Dritter**
 
@@ -63,38 +61,8 @@ Sie können viele Online-Anzeigen-Cookies von Unternehmen über die US-amerikani
 **Piwik**
 
 Dieses Angebot benutzt [Piwik](http://piwik.org/), eine Open-Source-Software zur statistischen Auswertung der Nutzerzugriffe. Piwik verwendet sog. “Cookies”, Textdateien, die auf dem Computer der Nutzer gespeichert werden und die eine Analyse der Benutzung der Website durch die Nutzer ermöglichen. Die durch den Cookie erzeugten Informationen über die Benutzung dieses Agebotes werden auf dem Server des Anbieters in Deutschland gespeichert. Die IP-Adresse wird sofort nach der Verarbeitung und vor deren Speicherung anonymisiert. Nutzer können die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; Der Anbieter weisen die Nutzer jedoch darauf hin, dass sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich nutzen können.
-<iframe align="middle" src="http://pgunited.de/piwik/index.php?module=CoreAdminHome&amp;action=optOut&amp;language=de" width="600" height="200" frameborder="no"></iframe>
+<iframe align="middle" src="http://sta.pgunited.de/index.php?module=CoreAdminHome&amp;action=optOut&amp;language=de" width="600" height="200" frameborder="no"></iframe>
 
-
-**Verwendung von Facebook Social Plugins**
-
-Dieses Angebot verwendet Social Plugins ("Plugins") des sozialen Netzwerkes facebook.com, welches von der Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA betrieben wird ("Facebook"). Die Plugins sind an einem der Facebook Logos erkennbar (weißes „f“ auf blauer Kachel oder ein „Daumen hoch“-Zeichen) oder sind mit dem Zusatz "Facebook Social Plugin" gekennzeichnet. Die Liste und das Aussehen der Facebook Social Plugins kann hier eingesehen werden: [https://developers.facebook.com/docs/plugins/](https://developers.facebook.com/docs/plugins/).
-
-Wenn ein Nutzer eine Webseite dieses Angebots aufruft, die ein solches Plugin enthält, baut sein Browser eine direkte Verbindung mit den Servern von Facebook auf. Der Inhalt des Plugins wird von Facebook direkt an Ihren Browser übermittelt und von diesem in die Webseite eingebunden. Der Anbieter hat daher keinen Einfluss auf den Umfang der Daten, die Facebook mit Hilfe dieses Plugins erhebt und informiert die Nutzer daher entsprechend seinem [Kenntnisstand](http://www.facebook.com/help/?faq=17512):
-
-Durch die Einbindung der Plugins erhält Facebook die Information, dass ein Nutzer die entsprechende Seite des Angebots aufgerufen hat. Ist der Nutzer bei Facebook eingeloggt, kann Facebook den Besuch seinem Facebook-Konto zuordnen. Wenn Nutzer mit den Plugins interagieren, zum Beispiel den Like Button betätigen oder einen Kommentar abgeben, wird die entsprechende Information von Ihrem Browser direkt an Facebook übermittelt und dort gespeichert. Falls ein Nutzer kein Mitglied von Facebook ist, besteht trotzdem die Möglichkeit, dass Facebook seine IP-Adresse in Erfahrung bringt und speichert. Laut Facebook wird in Deutschland nur eine anonymisierte IP-Adresse gespeichert.
-
-Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch Facebook sowie die diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz der Privatsphäre der Nutzer , können diese den Datenschutzhinweisen von Facebook entnehmen: [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/).
-
-Wenn ein Nutzer Facebookmitglied ist und nicht möchte, dass Facebook über dieses Angebot Daten über ihn sammelt und mit seinen bei Facebook gespeicherten Mitgliedsdaten verknüpft, muss er sich vor dem Besuch des Internetauftritts bei Facebook ausloggen.
-
-Ebenfalls ist es möglich Facebook-Social-Plugins mit Add-ons für Ihren Browser zu blocken, zum Beispiel mit dem "[Facebook Blocker](http://webgraph.com/resources/facebookblocker/)".
-
-**+1 Schaltfläche von Google+**
-
-Dieses Angebot verwendet die “+1″-Schaltfläche des sozialen Netzwerkes Google Plus, welches von der Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States betrieben wird (“Google”). Der Button ist an dem Zeichen “+1″ auf weißem oder farbigen Hintergrund erkennbar.
-
-Wenn ein Nutzer eine Webseite dieses Angebotes aufruft, die eine solche Schaltfläche enthält, baut der Browser eine direkte Verbindung mit den Servern von Google auf. Der Inhalt der “+1″-Schaltfläche wird von Google direkt an seinen Browser übermittelt und von diesem in die Webseite eingebunden. der Anbieter hat daher keinen Einfluss auf den Umfang der Daten, die Google mit der Schaltfläche erhebt. Laut Google werden ohne einen Klick auf die Schaltfläche keine personenbezogenen Daten erhoben. Nur bei eingeloggten Mitgliedern, werden solche Daten, unter anderem die IP-Adresse, erhoben und verarbeitet.
-
-Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch Google sowie Ihre diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre können die Nutzer Googles Datenschutzhinweisen zu der “+1″-Schaltfläche entnehmen: http://www.google.com/intl/de/+/policy/+1button.html und der FAQ: http://www.google.com/intl/de/+1/button/.
-
-**Twitter**
-
-Dieses Angebot nutzt die [Schaltflächen des Dienstes Twitter](https://twitter.com/about/resources/buttons). Diese Schaltflächen werden angeboten durch die Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. Sie sind an Begriffen wie "Twitter" oder "Folge", verbunden mit einem stillisierten blauen Vogel erkennbar. Mit Hilfe der Schaltflächen ist es möglich einen Beitrag oder Seite dieses Angebotes bei Twitter zu teilen oder dem Anbieter bei Twitter zu folgen.
-
-Wenn ein Nutzer eine Webseite dieses Internetauftritts aufruft, die einen solchen Button enthält, baut sein Browser eine direkte Verbindung mit den Servern von Twitter auf. Der Inhalt des Twitter-Schaltflächen wird von Twitter direkt an den Browser des Nutzers übermittelt. Der Anbieter hat daher keinen Einfluss auf den Umfang der Daten, die Twitter mit Hilfe dieses Plugins erhebt und informiert die Nutzer entsprechend seinem Kenntnisstand. Nach diesem wird lediglich die IP-Adresse des Nutzers die URL der jeweiligen Webseite beim Bezug des Buttons mit übermittelt, aber nicht für andere Zwecke, als die Darstellung des Buttons, genutzt.
-
-Weitere Informationen hierzu finden sich in der Datenschutzerklärung von Twitter unter http://twitter.com/privacy.
 
 **Widerruf, Änderungen, Berichtigungen und Aktualisierungen**
 

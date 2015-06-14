@@ -1,1 +1,41 @@
+# Referrer SPAM
+<IfModule mod_rewrite.c>
+# semalt
+RewriteCond %{HTTP_REFERER} ^http://([^.]+\.)*semalt\.com [NC]
+RewriteRule (.*) http://www.semalt.com [R=301,L]
+# best-seo-solution
+RewriteCond %{HTTP_REFERER} ^http://([^.]+\.)*best-seo-solution\.com [NC]
+RewriteRule (.*) http://www.best-seo-solution.com [R=301,L]
+# best-seo-offer
+RewriteCond %{HTTP_REFERER} ^http://([^.]+\.)*best-seo-offer\.com [NC]
+RewriteRule (.*) http://www.best-seo-offer.com [R=301,L]
+# buttons-for-website
+RewriteCond %{HTTP_REFERER} ^http://([^.]+\.)*buttons-for-website\.com [NC]
+RewriteRule (.*) http://www.buttons-for-website.com [R=301,L]
+# simple-share-buttons
+RewriteCond %{HTTP_REFERER} ^http://([^.]+\.)*simple-share-buttons\.com [NC]
+RewriteRule (.*) http://www.simple-share-buttons.com [R=301,L]
+#buttons-for-your-website
+RewriteCond %{HTTP_REFERER} ^http://([^.]+\.)*buttons-for-your-website\.com [NC]
+RewriteRule (.*) http://www.buttons-for-your-website.com [R=301,L]
+#Get-Free-Traffic-Now
+RewriteCond %{HTTP_REFERER} ^http://([^.]+\.)*get-free-traffic-now\.com [NC]
+RewriteRule (.*) http://www.get-free-traffic-now.com [R=301,L]
+#sharebutton
+RewriteCond %{HTTP_REFERER} ^http://([^.]+\.)*sharebutton\.net [NC]
+RewriteRule (.*) http://sharebutton.net [R=301,L]
+#buy-cheap-online
+RewriteCond %{HTTP_REFERER} ^http://([^.]+\.)*buy-cheap-online\.info [NC]
+RewriteRule (.*) http://www.buy-cheap-online.info [R=301,L]
+#free-share-button
+RewriteCond %{HTTP_REFERER} ^http://([^.]+\.)*free-share-button\.com [NC]
+RewriteRule (.*) http://www.free-share-button.com [R=301,L]
+#free-share-buttons
+RewriteCond %{HTTP_REFERER} ^http://([^.]+\.)*free-share-buttons\.com [NC]
+RewriteRule (.*) http://www.free-share-buttons.com [R=301,L]
+#100dollars-seo.com
+RewriteCond %{HTTP_REFERER} ^http://([^.]+\.)*100dollars-seo\.com [NC]
+RewriteRule (.*) http://www.100dollars-seo.com [R=301,L]
+</IfModule>
+
 ErrorDocument 404 /404.html

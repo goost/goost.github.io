@@ -171,7 +171,12 @@ header, main, footer {
     padding: 0.625rem 1.25rem;
     background: #e51843;
     line-height: 1.1; }
-  .notepad-site-head .notepad-site-head-content h1, .notepad-site-head .notepad-site-head-content h2 {
+  .notepad-site-head .notepad-site-head-content .notepad-blog-home h2 {
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+  }
+  .notepad-site-head .notepad-site-head-content h1, .notepad-site-head .notepad-site-head-content h2, .notepad-site-head .notepad-site-head-content h3, .notepad-site-head .notepad-site-head-content h4 {
     margin: 0;
     padding: 0;
     color: #ffffff;
@@ -186,7 +191,7 @@ header, main, footer {
         color: #ffffff; }
     .notepad-site-head .notepad-site-head-content h1 .fa {
       margin-left: 0.3125rem; }
-  .notepad-site-head .notepad-site-head-content h2 {
+  .notepad-site-head .notepad-site-head-content h2, .notepad-site-head .notepad-site-head-content h3, notepad-site-head .notepad-site-head-content h4 {
     font-size: 2.5rem;
     padding-bottom: 5rem;
     font-weight: 700;
@@ -203,7 +208,7 @@ header, main, footer {
     .notepad-site-head .notepad-site-head-content h1 {
       padding-top: 9.375rem;
       font-size: 1rem; }
-    .notepad-site-head .notepad-site-head-content h2 {
+    .notepad-site-head .notepad-site-head-content h2, .notepad-site-head .notepad-site-head-content h3, .notepad-site-head .notepad-site-head-content h4 {
       font-size: 4.375rem;
       padding-bottom: 9.375rem;
       font-weight: 700; } }
@@ -218,7 +223,13 @@ header, main, footer {
       padding-top: 12.5rem; }
     .notepad-site-head .notepad-site-head-content h2 {
       font-size: 6.25rem;
-      padding-bottom: 12.5rem; } }
+      padding-bottom: 12.5rem; }
+    .notepad-site-head .notepad-site-head-content h3 {
+      font-size: 4.25rem;
+      padding-bottom: 12.5rem; }
+    .notepad-site-head .notepad-site-head-content h4 {
+      font-size: 2.25rem;
+      padding-bottom: 12.5rem; }      }
 
 .post-loop-animations .animated-post {
   visibility: hidden; }

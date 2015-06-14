@@ -7,12 +7,17 @@
 {% include navigation.html %}
  <div class="clearfix"></div>
     </div>
-    {% if site.header_bg %}<div class="notepad-site-head-content with-bg-cover">{% else %}<div class="notepad-site-head-content">{% endif %}
+    <div class="notepad-site-head-content with-bg-cover">
     <h1 class="notepad-blog-title">
         <span class="notepad-site-head-title-bg">
             {{ site.title }}
         </span>
     </h1>
-    <h2 class="notepad-blog-description">Gleb Ostrowski's personal website.<br /> Enjoy your time.</h2>
+    <h2 class="notepad-blog-description" style="text-transform: none;">
+    <a href="{{ site.url }}/aboutme" >
+    goost, the. </a> <br />
+    creater of art made of bits and bytes <br />
+    lover of Japan and cats
+    </h2>
 </div>
 </header>

@@ -23,7 +23,7 @@ owner:
   avatar:         hh_dungeon.jpg
   email:          askme@pgunited.de
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Applied Computer Science B.Sc. Student from Hanover, Germany. German National Merit Foundation scholarship holder. Game Developer to be. Blogger to be. Professional to be. Knowledge-Lover. Still much to be, but going there. And then going further.
+  description:    Applied Computer Science, B.Sc. German National Merit Foundation scholarship holder. Knowledge-Lover. Creater of worlds. Game Developer to be. Professional to be. Still much to be, but going there. And then going further.
   twitter:        pgu_goost
   facebook:       pgunited
   github:         goost 
@@ -53,8 +53,8 @@ links:
     url: /projects
   - title: Categories
     url: /categories
-  - title: Über Mich
-    url: /ueber-mich
+  - title: About me
+    url: /aboutme
   
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Berlin
@@ -212,4 +212,4 @@ prose:
 
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Thumbs.db", "compileAndUpload.bat"]
+exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Thumbs.db", "compileAndUpload.bat", "about.md"]
