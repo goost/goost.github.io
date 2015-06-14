@@ -28,7 +28,7 @@ Das Script ist aber leider nicht ganz portabel und muss für den eigenen Gebrauc
 
 Hier aber nun das Script, viel Spaß damit:
 
-{% highlight autohotkey %}
+``` autohotkey
 
 ;----------------------------------------------
 ; Sound Device Switcher
@@ -77,7 +77,7 @@ SetTimer, RemoveToolTip, Off
 ToolTip
 return
 
-{% endhighlight %}
+```
 
 Und hier die AHK als Download, wer nicht kopieren will ;)
 

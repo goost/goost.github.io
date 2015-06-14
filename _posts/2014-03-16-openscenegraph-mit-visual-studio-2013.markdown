@@ -34,7 +34,9 @@ Aus dem von euch heruntergeladenem 3rdParty Package kopiert ihr die zlib.dll (un
 
 [![](http://www.pgunited.de/wp-content/uploads/2014/03/osg_folder_structure.jpg)](http://www.pgunited.de/wp-content/uploads/2014/03/osg_folder_structure.jpg)
 Für eine schnelle Setzung der Umgebungsvariablen hat wieder xinyustudio [ein kleines Skript](http://xinyustudio.wordpress.com/2013/06/03/installing-openscenegraph-osg-on-windows/) zusammengestellt. Für mein System waren die Anführungszeichen aber falsch, deswegen hier eine Version mit korrigierten Füßchen. Vergesst nicht euren Installationsordner einzutragen! Mit Adminrechten ausführen.
-{% highlight batch %}
+
+``` batch
+
 @echo on
 rem in der nächsten Zeile eigenen Installationsordner angeben!
 setx OSG_ROOT G:\OpenSceneGraph
@@ -45,7 +47,8 @@ setx OSG_SAMPLES_PATH %OSG_ROOT%\share\OpenSceneGraph\bin
 setx OSG_FILE_PATH %OSG_ROOT%\data
 setx Path "%OSG_BIN_PATH%;%OSG_SAMPLES_PATH%;%Path%"
 pause
-{% endhighlight %}
+
+```
 
 Prüft nach, ob eurer Path richtig ist (mit den beiden neuen Variablen), wenn nicht, ergänzt diese manuell (Ich musste das Script zweimal starten und den Path per Hand eingeben, bis alles korrekt war…).
 Die Grundinstallation ist damit fertig.
