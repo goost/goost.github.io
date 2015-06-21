@@ -1,6 +1,7 @@
 ---
 author: goost
 comments: true
+featured: true
 date: 2014-04-12 20:37:54+00:00
 layout: post
 slug: red-august-sos-eine-bomberman-inspiration
@@ -29,4 +30,4 @@ Aber genug der Geschichte, ihr wollt doch alle das Spiel haben! [Hier](https://d
 
 Für alle, die mehr zur Mechanik wissen wollen, stelle ich [hier](https://dl.dropboxusercontent.com/u/19662246/Rasos_Source.7z) den Source zur Verfügung.
 
-[![](http://www.pgunited.de/wp-content/uploads/2014/04/screenshot_2.jpg)](http://www.pgunited.de/wp-content/uploads/2014/04/screenshot_2.jpg)[![](http://www.pgunited.de/wp-content/uploads/2014/04/screenshot_3.jpg)](http://www.pgunited.de/wp-content/uploads/2014/04/screenshot_3.jpg)[![](http://www.pgunited.de/wp-content/uploads/2014/04/screenshot_1.jpg)](http://www.pgunited.de/wp-content/uploads/2014/04/screenshot_1.jpg)[![](http://www.pgunited.de/wp-content/uploads/2014/04/spritesheet_player_1_blasen.jpg)](http://www.pgunited.de/wp-content/uploads/2014/04/spritesheet_player_1_blasen.jpg)
+[![](http://www.pgunited.de/wp-content/uploads/2014/04/screenshot_2.jpg)](http://www.pgunited.de/wp-content/uploads/2014/04/screenshot_2.jpg)[![](http://www.pgunited.de/wp-content/uploads/2014/04/screenshot_3.jpg)](http://www.pgunited.de/wp-content/uploads/2014/04/screenshot_3.jpg)[![](http://www.pgunited.de/wp-content/uploads/2014/04/screenshot_1.jpg)](http://www.pgunited.de/wp-content/uploads/2014/04/screenshot_1.jpg)[![](http://www.pgunited.de/wp-content/uploads/2014/04/spritesheet_player_1_blasen.png)](http://www.pgunited.de/wp-content/uploads/2014/04/spritesheet_player_1_blasen.png)

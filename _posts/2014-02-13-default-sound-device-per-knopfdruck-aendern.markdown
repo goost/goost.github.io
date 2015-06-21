@@ -1,6 +1,7 @@
 ---
 author: goost
 comments: true
+featured: true
 date: 2014-02-13 03:49:29+00:00
 layout: post
 slug: default-sound-device-per-knopfdruck-aendern

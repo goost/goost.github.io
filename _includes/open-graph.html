@@ -16,4 +16,4 @@
 {% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | strip_html }}">{% endif %}
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
-{% if page.imagefeature %}<meta property="og:image" content="{{ site.url }}/images/cover/{{ page.imagefeature }}">{% else %}{% if site.header_bg }}<meta property="og:image" content="{{ site.url }}/images/header/{{ site.header }}">{% else %}<meta property="og:image" content="{{ site.url }}/images/{{ site.logo }}">{% endif %}{% endif %}
+{% if page.imagefeature %}<meta property="og:image" content="{{ site.url }}/images/cover/{{ page.imagefeature }}">{% else %}{% if site.header_bg %}<meta property="og:image" content="{{ site.url }}/images/header/{{ site.header }}">{% else %}<meta property="og:image" content="{{ site.url }}/images/{{ site.logo }}">{% endif %}{% endif %}

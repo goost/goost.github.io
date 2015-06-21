@@ -29,7 +29,7 @@ und die Google+-Seite:
 <div class="row section">
 	<div class="container narrow block">
 		<div class="col-1-2">
-		<p>Um mich zu kontaktieren, schreibt mir entweder eine eMail an <a href="mailto:askme@pgunited.de">askme[at]pgunited.de</a> oder benutzt das Formular rechts.</p>
+		<p>Um mich zu kontaktieren, schreibt mir entweder eine eMail an <a href="mailto:askme@pgunited.com">askme[at]pgunited.com</a> oder benutzt das Formular rechts.</p>
 		</div>
 		<div class="col-1-2">
 			<p>Vielen Dank! Ich melde mich so schnell wie möglich.</p>

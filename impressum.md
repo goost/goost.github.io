@@ -36,10 +36,10 @@ und die Google+-Seite: [https://plus.google.com/113190391475563762817](https://
 <div class="row section">
 	<div class="container narrow block">
 		<div class="col-1-2">
-		<p>Um mich zu kontaktieren, schreibt mir entweder eine eMail an <a href="mailto:askme@pgunited.de">askme[at]pgunited.de</a> oder benutzt das Formular (powered by <a href="http://formspree.io">formspree.io</a>).</p>
+		<p>Um mich zu kontaktieren, schreibt mir entweder eine eMail an <a href="mailto:askme@pgunited.com">askme[at]pgunited.com</a> oder benutzt das Formular (powered by <a href="http://formspree.io">formspree.io</a>).</p>
 		</div>
 		<div class="col-1-2">
-			<form method="POST" action="//formspree.io/askme@pgunited.de">
+			<form method="POST" action="//formspree.io/askme@pgunited.com">
 		    	<input type="email" name="_replyto" placeholder="Your email">
 				<textarea name="message" rows="5" placeholder="Your message"></textarea>
 				<input type="submit" value="Send">

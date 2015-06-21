@@ -1,6 +1,7 @@
 ---
 author: goost
 comments: true
+featured: true
 date: 2014-07-28 21:51:34+00:00
 layout: post
 slug: seminararbeit-kuenstliche-intelligenz-computerspielen

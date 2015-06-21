@@ -7,6 +7,8 @@ layout: page
 guid: http://www.pgunited.de/?page_id=2
 ---
 
+*Time flies by and this is getting old. It is even still in German! If you are feeling nostalgic (and can read German) go on, read it, see for yourself how I thought a few years back. For everybody else, [enjoy the current me.]({{ site.url }}/aboutme)*
+
 Willkommen auf meinen Blog!
 
 Schön, dass du den Weg hierher gefunden hast. Mein Name ist Gleb Ostrowski. Dieser Blog ist eine im Aufbau befindliche Sammlung meiner Gedanken, Ideen und Fünde. Er ist vor allem dazu da, mir als Referenz und Gedankenstütze zu dienen, ich hoffe aber natürlich auch dir, lieber Leser, den ein oder anderen neuen Gedanken vermitteln zu können, dich zum schmunzeln zu bringen oder zumindest deine Zeit etwas zu versüßen ;). Weiteres zum Blog-Sin(n) findet sich gleich im [ersten Post](http://www.pgunited.de/2013/11/03/blog-sinn/). Doch wer bin ich überhaupt?

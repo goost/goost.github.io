@@ -41,13 +41,13 @@ Personenbezogene Daten werden von dem Anbieter nur dann erhoben, genutzt und wei
 **Kontaktaufnahme**
 
 Bei der Kontaktaufnahme mit dem Anbieter (zum Beispiel per Kontaktformular oder E-Mail) werden die Angaben des Nutzers zwecks Bearbeitung der Anfrage sowie für den Fall, dass Anschlussfragen entstehen, gespeichert.
-
+<!--
 **Disqus**
 
-Die Seite nutzt das DISQUS-Kommentarsystem, das von der Firma DISQUS Inc., 301 Howard St., Suite 300, San Francisco, CA 94105, USA, bereitgestellt wird. Die Datenschutzinformationen von DISQUS befinden sich [hier](https://help.disqus.com/customer/portal/articles/466259-privacy-policy). DISQUS erlaubt die Anmeldung entweder über ein eigenes DISQUS-Nutzer-Konto oder über bestehende Nutzer-Konten bei Facebook, Twitter und Google Plus. Sofern man sich mit dem eigenen Accounts der Social-Media-Angebote bei der DISQUS-Funktion auf dieser Webseite anmeldt, werden auch diese Diensteanbieter Informationen zur Nutzung der DISQUS-Funktionen erheben und verarbeiten. Weitere Informationen hierzu finden sich in den Datenschutzinformationen der jeweiligen Anbieter.
-
+Die Seite nutzt das DISQUS-Kommentarsystem, das von der Firma DISQUS Inc., 301 Howard St., Suite 300, San Francisco, CA 94105, USA, bereitgestellt wird. Bei Nutzung werden Ihre Daten von Disqus verarbeitet und auf deren Systemen gespeichert. Die Datenschutzinformationen von DISQUS befinden sich [hier](https://help.disqus.com/customer/portal/articles/466259-privacy-policy). DISQUS erlaubt die Anmeldung entweder über ein eigenes DISQUS-Nutzer-Konto oder über bestehende Nutzer-Konten bei Facebook, Twitter und Google Plus. Auch die Erstellung von Kommentare ohne Registrierung und Anmeldung, als Gast, ist möglich. Sofern man sich mit dem eigenen Accounts der Social-Media-Angebote bei der DISQUS-Funktion auf dieser Webseite anmeldet, werden auch diese Diensteanbieter Informationen zur Nutzung der DISQUS-Funktionen erheben und verarbeiten. Weitere Informationen hierzu finden sich in den Datenschutzinformationen der jeweiligen Anbieter.
+ 
 DISQUS übermittelt die E-Mail-Adresse der Benutzer und die IP-Adresse, die während der Eingabe eines Kommentars verwendet wurde, an pgunited.de. Diese Informationen werden ausschließlich für den Zweck der Kontaktaufnahme im Zusammenhang mit Ihrer Nutzung von DISQUS benötigt. Eine unerlaubte Weitergabe an Dritte erfolgt selbstverständlich nicht.
-
+-->
 **Einbindung von Diensten und Inhalten Dritter**
 
 Es kann vorkommen, dass innerhalb dieses Onlineangebotes Inhalte Dritter, wie zum Beispiel Videos von YouTube, Kartenmaterial von Google-Maps, RSS-Feeds oder Grafiken von anderen Webseiten eingebunden werden. Dies setzt immer voraus, dass die Anbieter dieser Inhalte (nachfolgend bezeichnet als "Dritt-Anbieter") die IP-Adresse der Nutzer wahr nehmen. Denn ohne die IP-Adresse, könnten sie die Inhalte nicht an den Browser des jeweiligen Nutzers senden. Die IP-Adresse ist damit für die Darstellung dieser Inhalte erforderlich. Wir bemühen uns nur solche Inhalte zu verwenden, deren jeweilige Anbieter die IP-Adresse lediglich zur Auslieferung der Inhalte verwenden. Jedoch haben wir keinen Einfluss darauf, falls die Dritt-Anbieter die IP-Adresse z.B. für statistische Zwecke speichern. Soweit dies uns bekannt ist, klären wir die Nutzer darüber auf.
@@ -68,4 +68,5 @@ Dieses Angebot benutzt [Piwik](http://piwik.org/), eine Open-Source-Software zur
 
 Der Nutzer hat das Recht, auf Antrag unentgeltlich Auskunft zu erhalten über die personenbezogenen Daten, die über ihn gespeichert wurden. Zusätzlich hat der Nutzer das Recht auf Berichtigung unrichtiger Daten, Sperrung und Löschung seiner personenbezogenen Daten, soweit dem keine gesetzliche Aufbewahrungspflicht entgegensteht.
 
+Vom übernommen vom und angepasst:
 [**Datenschutz-Muster von Rechtsanwalt Thomas Schwenke - I LAW it**](http://rechtsanwalt-schwenke.de/smmr-buch/datenschutz-muster-generator-fuer-webseiten-blogs-und-social-media/)
