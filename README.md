@@ -1,3 +1,7 @@
+Forked from Hossain Mohd. Faysal Notepad Theme GitHub. Thanks for making this awesome theme!
+Theme is modified here and there a little by me.
+Original README below.
+
 Notepad is a Jekyll theme which is very simple, clean and beautiful. This theme is good for any blog.
   
 Main Features:
