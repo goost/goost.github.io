@@ -24,12 +24,13 @@ url:              http://pgunited.com
 # Owner/author information
 owner:
   name:           goost
-  avatar:         hh_dungeon.jpg
+  #avatar:         hh_dungeon.jpg
+  avatar:         coelbe2015.jpg
   email:          askme@pgunited.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Applied Computer Science, B.Sc. German National Merit Foundation scholarship holder. Knowledge-Lover. Creater of worlds. Game Developer to be. Professional to be. Still much to be, but going there. And then going further.
-  twitter:        pgu_goost
-  facebook:       pgunited
+  description:    Applied Computer Science B.Sc. German National Merit Foundation scholarship holder. Knowledge-Lover. Creater of worlds. Game Developer to be. Professional to be. Still much to be, but going there. And then going further.
+  #twitter:        pgu_goost
+  #facebook:       pgunited
   github:         goost 
   #added by goost
   linkedin:       true
@@ -55,17 +56,19 @@ links:
   - title: Blog
     url: /blog
   - title: Projects
-    url: /projects
-  - title: Categories
-    url: /categories
+    url: /Projects
+ # - title: Categories
+ #   url: /categories
   - title: About
     url: /aboutme
+  - title: Contact
+    url: /contact
   
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Berlin
 future:      true
 #highlighter: pygments
-#highlighter:  rouge
+highlighter:  rouge
 #highlighter: false
 markdown:    kramdown
 paginate:    5

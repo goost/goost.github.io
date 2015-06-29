@@ -7,6 +7,7 @@ slug: erfahrungsbericht-auswahlseminar-studienstiftung-2-tag
 title: 'Erfahrungsbericht: Auswahlseminar Studienstiftung (2.Tag)'
 permalink: /2014/03/02/erfahrungsbericht-auswahlseminar-studienstiftung-2-tag/
 wordpress_id: 283
+featured: true
 categories:
 - Personal
 tags:

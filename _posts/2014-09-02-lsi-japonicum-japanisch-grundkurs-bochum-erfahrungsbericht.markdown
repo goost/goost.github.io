@@ -7,6 +7,7 @@ slug: lsi-japonicum-japanisch-grundkurs-bochum-erfahrungsbericht
 title: 'LSI Japonicum - Japanisch Grundkurs in Bochum - Erfahrungsbericht '
 wordpress_id: 401
 permalink: /2014/09/02/lsi-japonicum-japanisch-grundkurs-bochum-erfahrungsbericht/
+featured: true
 categories:
 - Personal
 tags:

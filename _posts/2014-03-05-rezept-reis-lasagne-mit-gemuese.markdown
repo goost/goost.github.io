@@ -7,6 +7,7 @@ slug: rezept-reis-lasagne-mit-gemuese
 title: 'Rezept: Reis-Lasagne mit Gemüse'
 permalink: /2014/03/05/rezept-reis-lasagne-mit-gemuese/
 wordpress_id: 287
+featured: true
 categories:
 - Cooking
 tags:

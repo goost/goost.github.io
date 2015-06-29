@@ -1,22 +1,23 @@
 {% if page.layout == 'home' and site.header_bg %}<footer class="notepad-site-footer with-bg-cover">{% else %}<footer class="notepad-site-footer">{% endif %}
     <div class="copyright">
-         <section>All content copyright <a href="{{ site.url }}/about">{{ site.owner.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.</section>
+         <section>All content copyright <a href="{{ site.url }}/about">Gleb Ostrowski</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.</section>
          <section>Proudly published with <a class="icon-ghost" href="https://jekyllrb.com/">Jekyll</a> on {{ site.time | date: "%A, %d %b %Y" }} at {{ site.time | date: "%R"}} UTC</section>
          <section>
          <section>
             This awesome theme is made by <a href="http://hmfaysal.github.io/">Hossain Mohammad Faysal</a>. Thanks!
          </section>
-            <a href="{{ site.url }}/impressum"> Impressum/Contact </a> &bull; <a href="{{ site.url }}/datenschutzerklaerung"> Datenschutzerklärung </a>
+            <a href="{{ site.url }}/impressum"> Impressum </a> &bull; <a href="{{ site.url }}/datenschutzerklaerung"> Datenschutzerklärung </a>
          </section>
     </div>
     <div class="social-icons">
-        
+        <!--
         <a href="{{ site.url }}/feed.xml">
             <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
                 <i class="fa fa-rss fa-stack-1x"></i>
             </span>
         </a>
+        -->
         {% if site.owner.twitter %}
         <a href="http://twitter.com/{{ site.owner.twitter }}" target="_blank">
             <span class="fa-stack fa-lg">
@@ -25,12 +26,14 @@
             </span>
         </a>{% endif %}
         {% if site.owner.google_plus %}
+        <!--
         <a href="http://plus.google.com/{{ site.owner.google_plus }}" target="_blank">
             <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
                 <i class="fa fa-google-plus fa-stack-1x"></i>
             </span>
-        </a>{% endif %}
+        </a>
+        -->{% endif %}
         {% if site.owner.instagram %}
         <a href="http://instagram.com/{{ site.owner.instagram }}" target="_blank">
             <span class="fa-stack fa-lg">
@@ -65,8 +68,8 @@
                 <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
                 <i class="fa fa-facebook fa-stack-1x"></i>
             </span>
-        </a>
-    </div>{% endif %}
+        </a>{% endif %}
+    </div>
     
     <div class="cf"></div>
 </footer>

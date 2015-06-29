@@ -21,10 +21,6 @@ Dieses Impressum gilt auch für die Facebook-Seite:
 und die Google+-Seite:  
 [https://plus.google.com/113190391475563762817](https://plus.google.com/113190391475563762817)
 
-### Bilder:
-
-(noch leer)
-
 ### Kontakt:
 <div class="row section">
 	<div class="container narrow block">
