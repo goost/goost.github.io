@@ -49,3 +49,4 @@
 <script>(function(d,e,j,h,f,c,b){d.GoogleAnalyticsObject=f;d[f]=d[f]||function(){(d[f].q=d[f].q||[]).push(arguments)},d[f].l=1*new Date();c=e.createElement(j),b=e.getElementsByTagName(j)[0];c.async=1;c.src=h;b.parentNode.insertBefore(c,b)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create","{{ site.google_analytics }}","auto");ga("require","displayfeatures");ga("send","pageview");</script>
 {% endif %}
 {% if site.nprogress %}<script>NProgress.start();var interval=setInterval(function(){NProgress.inc()},1000);jQuery(window).load(function(){clearInterval(interval);NProgress.done()});jQuery(window).unload(function(){NProgress.start()});</script>{% endif %}
+<script type="text/javascript" id="cookiebanner" data-message="This site uses cookies to enhance your experience. By continuing to visit this site you agree to the use of cookies."  src="{{ site.url }}/assets/js/cookiebanner.js"></script>
