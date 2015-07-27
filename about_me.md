@@ -33,9 +33,9 @@ Interested in creating worlds together?
 Shoot me an [email](mailto:goost@pgunited.com).  
 Need more facts? See here my [resume]({{ site.url }}/resume.pdf).
 
-In my free time I like to toy around with stuff, watching [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg), random [TED talks](https://www.ted.com) and other.
-Also read a book or articles about geeky stuff, technical stuff or just pure fantasy.  
-When I getting tired of reading I also enjoy to play a game, which could involve even more reading, but well, it is interactive<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>.  
+In my free time I like to surf around the web, watch [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg), random [TED talks](https://www.ted.com) and other.
+And reading a book or articles about geeky stuff, technical stuff or just pure fantasy.  
+If I get tired of reading, I also enjoy playing games, which could involve even more reading, but well, it is interactive<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>.  
 Last, but certainty not least, I love anime and manga. 
 After my study abroad in Japan it only intensified.
 Speaking of which, I also study Japanese.
@@ -43,7 +43,7 @@ Still nowhere where I want to be, but then their would be no point in studying, 
 
 One dream of mine is to finally adopt my own two cats. 
 My mother was allergic, and during my studies I shared a flat with others. Sadly, no cats in this circumstances.  
-[But cats are just so adorable, are they not?](http://www.google.com/images?q=cats)
+[But cats are just so adorable, aren't they?](http://www.google.com/images?q=cats)
 
 ----------
 <figure>
@@ -75,6 +75,7 @@ And because old skills and meanings are not getting worthless, they are *united*
       <li> Baldur's Gate Trilogy </li>
       <li> Bioshock Franchise</li>
       <li> Danganronpa </li>
+      <li> Zero Escape Franchise </li>
       <li> Tales of [Xillia | Xillia 2] </li>
       <li> Bloodborne </li>
       <li> Final Fantasy VII + X + X-2 (<em>Yes</em>, I like it) </li>
