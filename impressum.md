@@ -15,14 +15,14 @@ vantage_menu_icon:
 Angaben gemäß § 5 TMG:
 
 Gleb Ostrowski  
-Benzweg 24  
-30165 Hannover  
+Hindenburgstrasse 58  
+71638 Ludwigsburg  
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Gleb Ostrowski  
-Benzweg 24  
-30165 Hannover  
+Hindenburgstrasse 58  
+71638 Ludwigsburg  
 
 Dieses Impressum gilt auch für die Facebook-Seite: [https://www.facebook.com/pgunited](https://www.facebook.com/pgunited)
 
