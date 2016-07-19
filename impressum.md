@@ -15,14 +15,14 @@ vantage_menu_icon:
 Angaben gemäß § 5 TMG:
 
 Gleb Ostrowski  
-Hindenburgstrasse 58  
-71638 Ludwigsburg  
+Bahnhofstr. 15  
+35037 Marburg
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Gleb Ostrowski  
-Hindenburgstrasse 58  
-71638 Ludwigsburg  
+Bahnhofstr. 15  
+35037 Marburg   
 
 Dieses Impressum gilt auch für die Facebook-Seite: [https://www.facebook.com/pgunited](https://www.facebook.com/pgunited)
 
